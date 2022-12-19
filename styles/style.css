@@ -94,6 +94,7 @@ button:hover{
     color: rgb(124, 118, 236);
     font-weight: bold;
     text-decoration: none;
+    cursor:pointer;
 }
 .button{
     display: block;
